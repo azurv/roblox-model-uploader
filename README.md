@@ -40,3 +40,11 @@ Just double-click the `run.bat` file to launch the script without needing to use
 - **2️⃣ Cookie Checker**: Check which cookies are still valid.
 - **3️⃣ Upload Model**: Automatically upload `.rbxm` models using one or more Roblox accounts.
 - **0️⃣ Exit**: Safely exit the program.
+
+---
+
+## Support the Project ⭐
+
+If you find this project useful, don't forget to give it a **star** on GitHub! 🌟
+
+The more stars this project gets, the more features and updates will be added. So if you'd like to see new functionality, hit that star button and stay tuned for future improvements! 🚀
